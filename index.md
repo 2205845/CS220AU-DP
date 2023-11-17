@@ -6,11 +6,11 @@ Use [Markdown language](https://guides.github.com/features/mastering-markdown/) 
 
 And [this](https://navigatingthedigitalworld.com/docs/cs220/cs220au) is an external link to web page on another website. 
 
-## Embedding images
+## Main body
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
 
 ![Plain VR map](assets/img/vr-map-plain.svg)
-##Main body
+
 Below you see an example of embedding an image that is found in another repository:
 
 ![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
