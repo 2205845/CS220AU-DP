@@ -1,4 +1,4 @@
-# How can AI create false information that could lead to warefare and existential risk
+# Existenial risks associated with AI
 Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
 
 ## Introduction
