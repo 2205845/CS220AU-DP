@@ -8,7 +8,9 @@ And [this](https://navigatingthedigitalworld.com/docs/cs220/cs220au) is an exter
 
 ## Main body
 What is AI, and what impacts has it had on civilization so far?
+What is a digital identity?
 How has fake news spreading impacted society this far?
+AI: A new world of possibilities? (Advantages and disadvantages)
 
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
 
