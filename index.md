@@ -28,7 +28,9 @@ How fake news can lead to wars and the spread of propoganda?
 (Isreal and palestine)
 
 
+Ai is a technology that has access to a large range of our personal data, it then uses this data to gather knowledge and develop solutions in a human like way. Army's such as the Israeli army are using AI to create fake videos and spread propaganda during wars, therefore posing an existential risk. The videos look real and therefore people can't comprehend what to believe.  
 
+ 
 
 
 
