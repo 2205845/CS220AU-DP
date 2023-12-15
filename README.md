@@ -40,4 +40,4 @@ Instructions on using this GitHub repository as a template for your assignment w
 
 5/12/23-Constructed photos to edit for my website. 
 
-11/12/23- used adobe photoshop to edit the photos I took. 
+11/12/23- Used adobe photoshop to edit the photos I took. 
