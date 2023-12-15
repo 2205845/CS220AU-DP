@@ -15,15 +15,10 @@ Kaplan and Haenlein define AI as “a system’s ability to correctly interpret 
 What Is a digital identity? 
 
 
-AI- A new world of possibilities: Although AI has had many positive effects on society there is a risk associated with it.
-
-
 How has fake news being spread impacted society? 
 
 
 AI:How is it an existential risk?
-
-
 While AI presents numerous opportunities for positive impact, it's important to consider and address ethical concerns, biases, and potential risks to ensure responsible and beneficial deployment in society.
 
 
@@ -55,5 +50,7 @@ Below you see an example of embedding an image that is found in another reposito
 ## More examples
 Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide.
 ## Reference List
+(Kaplan and Haenlein 2019)
+
 
 
