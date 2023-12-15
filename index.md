@@ -1,9 +1,6 @@
 # Existenial risks associated with AI
 Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
 
-## keywords : Existential risk & digital identities
-
-
 ## Introduction
 [This](https://github.com/2205845/CS220AU-DP/blob/main/assessement.md) is an internal link to another page on your site. 
 
