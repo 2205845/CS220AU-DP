@@ -19,7 +19,7 @@ While AI presents numerous opportunities for positive impact, it's important to 
 
 How has fake news spreading impacted society this far?
 ( Link AI to the reason fake news is spreading -> deepfakes etc)
-
+Deepfakes are media such as photos and images that have been digitally manipulated. They reconstruct a person's facial appearance and body language to create realistic and lifelike photos and videos. This means when people see videos and photos online it may be hard for them to tell what is real and what's been constructed.  
 
 
 
