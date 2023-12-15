@@ -11,12 +11,6 @@ What is AI and how is it being used?
 Kaplan and Haenlein define AI as “a system’s ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation” (Kaplan and Haenlein 2019). Artificiall intellegence is helping society with things such as healthcare, education, assistive technologies and autonomous vehichles. It allows for a higher efficiency rate while conducting tasks, therefore helping humans complete tasks earlier or replacing the risky jobs.
 
 
-
-What Is a digital identity? 
-
-
-
-
 AI:How is it an existential risk?
 While AI presents numerous opportunities for positive impact, it's important to consider and address ethical concerns, biases, and potential risks to ensure responsible and beneficial deployment in society.
 
@@ -27,7 +21,7 @@ How has fake news spreading impacted society this far?
 ( Link AI to the reason fake news is spreading -> deepfakes etc)
 
 
-How fake news can lead to wars and the spread of propoganda?
+How fake news can lead to wars and the spread of propoganda? 
 (Isreal and palestine)
 
 
