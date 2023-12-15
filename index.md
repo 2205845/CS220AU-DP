@@ -15,7 +15,6 @@ Kaplan and Haenlein define AI as “a system’s ability to correctly interpret 
 What Is a digital identity? 
 
 
-How has fake news being spread impacted society? 
 
 
 AI:How is it an existential risk?
@@ -24,10 +23,12 @@ While AI presents numerous opportunities for positive impact, it's important to 
 
 
 
-What is a digital identity?
-
-
 How has fake news spreading impacted society this far?
+( Link AI to the reason fake news is spreading -> deepfakes etc)
+
+
+How fake news can lead to wars and the spread of propoganda?
+(Isreal and palestine)
 
 
 AI: A new world of possibilities? (Advantages and disadvantages)
