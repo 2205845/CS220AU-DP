@@ -20,7 +20,7 @@ AI- A new world of possibilities: Although AI has had many positive effects on s
 
 How has fake news being spread impacted society? 
 
-AI- a new world of possibilities negative/positive - advantages/disadvantages 
+AI:How is it an existential risk?
 While AI presents numerous opportunities for positive impact, it's important to consider and address ethical concerns, biases, and potential risks to ensure responsible and beneficial deployment in society.
 
 
