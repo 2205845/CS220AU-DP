@@ -20,15 +20,24 @@ AI- A new world of possibilities: Although AI has had many positive effects on s
 
 How has fake news being spread impacted society? 
 
+
 AI:How is it an existential risk?
+
+
 While AI presents numerous opportunities for positive impact, it's important to consider and address ethical concerns, biases, and potential risks to ensure responsible and beneficial deployment in society.
 
 
 
 
 What is a digital identity?
+
+
 How has fake news spreading impacted society this far?
+
+
 AI: A new world of possibilities? (Advantages and disadvantages)
+
+
 
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
 
