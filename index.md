@@ -1,5 +1,5 @@
 # Existenial risks associated with AI
-Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
+
 
 ## Introduction
 [This](https://github.com/2205845/CS220AU-DP/blob/main/assessement.md) is an internal link to another page on your site. 
@@ -11,30 +11,29 @@ What is AI and how is it being used?
 Kaplan and Haenlein define AI as “a system’s ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation” (Kaplan and Haenlein 2019). Artificiall intellegence is helping society with things such as healthcare, education, assistive technologies and autonomous vehichles. It allows for a higher efficiency rate while conducting tasks, therefore helping humans complete tasks earlier or replacing the risky jobs.
 
 
-AI:How is it an existential risk?
+## AI:How is it an existential risk?
 While AI presents numerous opportunities for positive impact, it's important to consider and address ethical concerns, biases, and potential risks to ensure responsible and beneficial deployment in society.
 
 
 
 
-How has fake news spreading impacted society this far?
+## How has fake news spreading impacted society this far?
 ( Link AI to the reason fake news is spreading -> deepfakes etc)
 Deepfakes are media such as photos and images that have been digitally manipulated. They reconstruct a person's facial appearance and body language to create realistic and lifelike photos and videos. This means when people see videos and photos online it may be hard for them to tell what is real and what's been constructed.  
 
 
 
-
-How fake news can lead to wars and the spread of propoganda? 
+## How fake news can lead to wars and the spread of propoganda? 
 (Isreal and palestine)
 
 
-Ai is a technology that has access to a large range of our personal data, it then uses this data to gather knowledge and develop solutions in a human like way. Army's such as the Israeli army are using AI to create fake videos and spread propaganda during wars, therefore posing an existential risk. The videos look real and therefore people can't comprehend what to believe.  
+## Ai is a technology that has access to a large range of our personal data, it then uses this data to gather knowledge and develop solutions in a human like way. Army's such as the Israeli army are using AI to create fake videos and spread propaganda during wars, therefore posing an existential risk. The videos look real and therefore people can't comprehend what to believe.  
 
  
 
 
 
-AI: A new world of possibilities? (Advantages and disadvantages)
+## AI: A new world of possibilities? (Advantages and disadvantages)
 
 
 
