@@ -21,11 +21,20 @@ How has fake news spreading impacted society this far?
 ( Link AI to the reason fake news is spreading -> deepfakes etc)
 
 
+
+
+
 How fake news can lead to wars and the spread of propoganda? 
 (Isreal and palestine)
 
 
+
+
+
+
 AI: A new world of possibilities? (Advantages and disadvantages)
+
+
 
 
 
