@@ -28,16 +28,18 @@ Instructions on using this GitHub repository as a template for your assignment w
    
 
 ## Log
-20/10/23 set up my GitHub account.
+20/10/23-Set up my GitHub account.
 
-20/10/23 Created my task list on my GitHub account. 
+20/10/23-Created my task list on my GitHub account. 
 
 11/11/23-started my search for sources to reference.
 
 1/12/23-Found books and journals to reference my key ideas.
 
-3/12/23-started the main body/introduction to my essay.  
+3/12/23-Started the main body/introduction to my essay.  
 
 5/12/23-Constructed photos to edit for my website. 
 
-11/12/23- Used adobe photoshop to edit the photos I took. 
+11/12/23-Used adobe photoshop to edit the photos I took.
+
+27/12/23-Added more information and references to my website.
