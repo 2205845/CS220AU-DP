@@ -50,6 +50,7 @@ Below you see an example of embedding an image that is found in another reposito
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<https://youtu.be/KOoHMrLSgks?si=w9FJqbi9XCYncPYA>
 
 ## Reference List
 (Kaplan and Haenlein 2019)
