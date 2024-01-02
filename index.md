@@ -43,7 +43,7 @@ Below you see an example of embedding an image that is found in this repository'
 
 Below you see an example of embedding an image that is found in another repository:
 (insert own image)
-https://<subdomain>.githubusercontent.com/https://www.shutterstock.com/image-photo/media-technology-modern-lifestyle-concept-young-638642296
+![Captured wishes_  Watercolor and pencil #thedaydreamerie](https://github.com/khofstadter/CS220AU-DP/assets/149805618/a06400e6-d7cd-4602-adf0-b0bd1f2925ff)
 
 ![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
 ## conclusion
