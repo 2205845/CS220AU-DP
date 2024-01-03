@@ -1,10 +1,14 @@
 # Existenial risks associated with AI
 
 
-## Introduction
-[This](https://github.com/2205845/CS220AU-DP/blob/main/assessement.md) is an internal link to another page on your site. 
+## What is an existential risk?
+Exisential risks are potential events that would pose irreversible threat the the existence of humanity. These potential dangers can create harmful effects on how we as a socity progress and can severly disrupt the continuation of human life. Existential risks can come from various sources such as natural disasters, human acitivities or technological developments such as AI, which ill be discussing further in my work.
 
-And [this](https://navigatingthedigitalworld.com/docs/cs220/cs220au) is an external link to web page on another website. 
+
+
+
+
+
 
 ## Main body
 What is AI and how is it being used?
