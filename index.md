@@ -45,15 +45,14 @@ Ai is a technology that has access to a large range of our personal data, it the
 
 
 
-Below you see an example of embedding an image that is found in this repository's assets/img folder: 
 
-![Plain VR map](assets/img/vr-map-plain.svg)
 
-Below you see an example of embedding an image that is found in another repository:
 (insert own image)
 ![Captured wishes_  Watercolor and pencil #thedaydreamerie](https://github.com/khofstadter/CS220AU-DP/assets/149805618/a06400e6-d7cd-4602-adf0-b0bd1f2925ff)
 
-![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
+
+
+
 ## conclusion
 ## Embedding video players
 
