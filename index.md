@@ -1,4 +1,4 @@
-# Existenial risks associated with AI
+# What threat does AI pose to humanity?
 
 
 ## What is an existential risk?
@@ -43,7 +43,7 @@ Unintended Consequences: As AI systems become more sophisticated, there is a ris
 
 
 ## conclusion
-
+In conclusion, although there are many benefits to AI, I believe that it can create huge risks to society such as existential risks that would lead to the planet being wipedout
 
 
 ## Embedding video players
