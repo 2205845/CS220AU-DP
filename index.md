@@ -7,8 +7,7 @@ Exisential risks are potential events that would pose irreversible threat the th
 
 
 
-## Main body
-What is AI and how is it being used?
+## What is AI and how is it being used?
 Kaplan and Haenlein define AI as “a system’s ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation” (Kaplan and Haenlein 2019). Artificiall intellegence is helping society with things such as healthcare, education, assistive technologies and autonomous vehichles. It allows for a higher efficiency rate while conducting tasks, therefore helping humans complete tasks earlier or replacing the risky jobs.
 
 
