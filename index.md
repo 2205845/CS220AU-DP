@@ -34,19 +34,31 @@ isreal and palestine addd references
  Below is a poem i've created linking AI and existential risk:
 
  AI a marvel, a force untamed, 
+ 
  Yet in it's shadows, existential flames.
 
  Machines that learn and replicate,
+ 
  A future shaped, a twist of fate.
+
+
+ 
  Existential whispers in the code,
+ 
  Warnings that in the circuits bode.
 
  What if AI, in its ascent, 
+ 
  Forgets the lessons we invent?
+ 
  A risk profound, a dire cost,
+ 
  As humaity's essence may be lost.
 
+ 
+
 In the digital echos of the abyss,
+
 Existential risk, we cant dimiss.
  
 
