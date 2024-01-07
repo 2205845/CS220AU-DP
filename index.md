@@ -40,7 +40,7 @@ isreal and palestine addd references
 
 
 ## conclusion
-In conclusion, although there are many benefits to AI, I believe that it can create huge risks to society such as existential risks that would lead to the planet being wipedout
+In conclusion, although there are many benefits to AI, I believe that it can create huge risks to society such as existential risks that would lead to humanity ending. AI is already advancing at a quick rate, and it will only continue to develop and progress as we feed it more of our personal data through our digital identities. As a result of this it will be hard to contain and will be able to be used as a weapon of masss desturction by world leaders.
 
 
 ## Embedding video players
