@@ -29,9 +29,26 @@ isreal and palestine addd references
  
 ## How can we link Digital identity, AI and existential risk?
  We have created AI through our own digital identiies, as it was designed to act and think like people. AI may end with unintended consequences, for example, AI is quickly becoming more sophisticated and that means it may soon surpass human intellegence. Soon AI may act however it pleases and dismiss human values.Although AI has many benefits, It can cause catastrophic existential threat to our digital identites. This is because AI systems have access to our personal data through our digital identity, this means that AI can replecate our identities making it harder for people to spot false identities when it comes to things like deepfakes and fraud. This means that our digital identities are being used by AI in improper ways and as a result can lead to missinformation spreading which could result in wars.
+
+
+ Below is a poem i've created linking AI and existential risk:
+
+ AI a marvel, a force untamed, 
+ Yet in it's shadows, existential flames.
+
+ Machines that learn and replicate,
+ A future shaped, a twist of fate.
+ Existential whispers in the code,
+ Warnings that in the circuits bode.
+
+ What if AI, in its ascent, 
+ Forgets the lessons we invent?
+ A risk profound, a dire cost,
+ As humaity's essence may be lost.
+
+In the digital echos of the abyss,
+Existential risk, we cant dimiss.
  
-
-
 
 (insert own image)
 ![Captured wishes_  Watercolor and pencil #thedaydreamerie](https://github.com/khofstadter/CS220AU-DP/assets/149805618/a06400e6-d7cd-4602-adf0-b0bd1f2925ff) 
