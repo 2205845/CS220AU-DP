@@ -18,13 +18,12 @@ While AI presents numerous opportunities for positive impact, it's important to 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rlP9NnLx-Bs?si=PDbuFEKjJ-odi4Pj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-## How fake news can lead to wars and the spread of propoganda? 
-Similar to how it was used in the Russia and  Ukraine war, AI is currently being used to spread propaganda during a genocide.
-Ai is a technology that has access to a large range of our personal data, it then uses this data to gather knowledge and develop solutions in a human like way. Army's such as the Israeli army are using AI to create fake videos and spread propaganda during wars, therefore posing an existential risk. The videos look real and therefore people can't comprehend what to believe.  
+Similar to how it was used in the Russia and  Ukraine war, AI is currently being used to spread propaganda during a genocide in Gaza.AI is a technology that has access to a large range of our personal data, it then uses this data to gather knowledge and develop solutions in a human like way. Army's such as the Israeli army are using AI to create fake videos and spread propaganda during wars, therefore posing an existential risk. The videos look real and therefore people can't comprehend what to believe. In addition to this the IDF are also using AI to target there missile attacks.
  
+'AI is having an impact at all levels of war, from “intelligence, surveillance and reconnaissance” support, like the IDF’s Habsora system, through to “lethal autonomous weapons systems” that can choose and attack targets without human intervention.These systems have the potential to reshape the character of war, making it easier to enter into a conflict. As complex and distributed systems, they may also make it more difficult to signal one’s intentions – or interpret those of an adversary – in the context of an escalating conflict' Baggiarini, B. (2023). Israel’s AI can produce 100 bombing targets a day in Gaza.
+ This passage shows just how dangerous the use of AI during a warefare is, stating that it can choose to attack targets without human interventions, therefore AI is making catastrophic decisions for us, resulting in thousands of palestinians being murdered everyday due to missile attacks that are calculated by AI. These calculations may also be innacurate and are based of things like cellphone usage in certain areas, they are trying to target the hamas militaray group, however it is predominantly civilians who are being murdered in these attacks. This is just the beginning of AI's use during wars, in the future when AI is more advanced we may heavily rely on it during war, leading to poor deciisons being made and the world possibly ending.
 
-isreal and palestine addd references
+
 
  
 ## How can we link Digital identity, AI and existential risk?
@@ -59,27 +58,21 @@ isreal and palestine addd references
 
 In the digital echos of the abyss,
 
-Existential risk, we cant dimiss.
+Existential risk, we cant dismiss.
  
 
-(insert own image)
-![Captured wishes_  Watercolor and pencil #thedaydreamerie](https://github.com/khofstadter/CS220AU-DP/assets/149805618/a06400e6-d7cd-4602-adf0-b0bd1f2925ff) 
-
+(insert image 2)
 
 
 
 ## conclusion
-In conclusion, although there are many benefits to AI, I believe that it can create huge risks to society such as existential risks that would lead to humanity ending. AI is already advancing at a quick rate, and it will only continue to develop and progress as we feed it more of our personal data through our digital identities. As a result of this it will be hard to contain and will be able to be used as a weapon of masss desturction by world leaders.
+In conclusion, although there are many benefits to AI, I believe that it can create huge risks to society such as existential risks that would lead to humanity ending. AI is already advancing at a quick rate, and it will only continue to develop and progress as we feed it more of our personal data through our digital identities. As a result of this it will be hard to contain and will be able to be used as a weapon of masss desturction by world leaders. AI is currently being used across the globe in warfare, resulting in thousands of innocent people losing their lives. Not only is AI being used to construct false deepfake videos of situatuions not happening, it is also being used by militaries in order to make critical decisions during war, such as where and when to send bombs etc. Although AI such as deepfakes stil have a long way to go before they become very realistic, I believe that if we dont interefere with AI soon and stop feeding it data, it could be one of the biggest existential risks of todays society, especially since society is very technology based.
 
-
-## Embedding video players
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<https://youtu.be/KOoHMrLSgks?si=w9FJqbi9XCYncPYA>
 
 ## Reference List
 (Kaplan and Haenlein 2019)
+
+Baggiarini, B. (2023). Israel’s AI can produce 100 bombing targets a day in Gaza. Is this the future of war? [online] The Conversation. Available at:https://theconversation.com/israels-ai-can-produce-100-bombing-targets-a-day-in-gaza-is-this-the-future-of-war-219302.
 
 
 
