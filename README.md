@@ -45,3 +45,11 @@ Instructions on using this GitHub repository as a template for your assignment w
 27/12/23-Added more information and references to my website.
 
 27/12/23-Found a video that relates to my topic well and added it to my website.
+
+31/12/23-Wrote and added my own poem into my website.
+
+3/1/24- Found more sources that get across my points and referenced them.
+
+5/1/24-Completed my conclusion.
+
+8/1/24-Started my self/peer assessment.
