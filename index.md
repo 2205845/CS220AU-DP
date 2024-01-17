@@ -1,4 +1,5 @@
 # What threat does AI pose to humanity?
+![pexels-tara-winstead-8386440](https://github.com/khofstadter/CS220AU-DP/assets/149805618/7e49bf0d-face-4843-acb5-85bffb83b5e9)
 
 Key words: Artificial intelligence, existential risk, digital identity, catastrophy & weapon of mass destruction
 
