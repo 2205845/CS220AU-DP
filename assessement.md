@@ -38,11 +38,16 @@ Using the marking rubric, I've assessed my own progress: <!-- move the symbols i
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |     |     |     |
+| 1.1       |     |     |     |  o  |     |
 | 1.2       |     |     |     |  o  |     |
-| 2.1       |     |     |  o  |     |     |
+| 2.1       |     |     | o   |     |     |
 | 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 3.1       |     |     |     |  o  |     |
+
+I think my essay does a good job at linking existential risk, digital identity and AI. I think my website is well structured and unbiased as overall it's about existential risk of AI, however i still mention Positive sides to AI.I think the videos and photos I've used help get across my points in a way that's accessible, fun and easy for readers, however I wish i had more resources so I was able to create more of my own photos rather than sourcing ones from the internet. I think although it's not too strongly written, my poem is also good at getting across the main points of my essay in a simpler and short form. I think my examples such as Israel and Palestine are good however I could of used more quotes and references to get across my points in a more academic way. In addition to this I use real life examples of AI being used in negative ways, such as in the Ukraine and Russia war, by doing this it gives the readers a more realistic picture of how AI is being currently used, and shows how if it advances in the future it can be used in negative ways that will end with existential risk of humanity. Although the video I used is useful, I struggled to find others relating to the topic. 
+
+
+
 
 ## Peer-assessment
 Another student in my group provided feedback on my work as follows: <!-- move the symbols in the table below -->
