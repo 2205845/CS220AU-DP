@@ -28,28 +28,28 @@ Instructions on using this GitHub repository as a template for your assignment w
    
 
 ## Log
-20/10/23-Set up my GitHub account.
+10/1/24-Completed and uploaded my peer assessment.
 
-20/10/23-Created my task list on my GitHub account. 
+8/1/24-Started my self/peer assessment. 
 
-11/11/23-started my search for sources to reference.
+5/1/24-Completed my conclusion. 
 
-1/12/23-Found books and journals to reference my key ideas.
+3/1/24- Found more sources that get across my points and referenced them. 
 
-3/12/23-Started the main body/introduction to my essay.  
+31/12/23-Wrote and added my own poem into my website. 
 
-5/12/23-Constructed photos to edit for my website. 
+27/12/23-Added more information and references to my website. 
 
-11/12/23-Used adobe photoshop to edit the photos I took.
+11/12/23-Used adobe photoshop to edit the photos I took. 
 
-27/12/23-Added more information and references to my website.
+5/12/23-Constructed photos to edit for my website.  
 
-27/12/23-Found a video that relates to my topic well and added it to my website.
+3/12/23-Started the main body/introduction to my essay.   
 
-31/12/23-Wrote and added my own poem into my website.
+1/12/23-Found books and journals to reference my key ideas. 
 
-3/1/24- Found more sources that get across my points and referenced them.
+11/11/23-started my search for sources to reference. 
 
-5/1/24-Completed my conclusion.
+20/10/23-Created my task list on my GitHub account.  
 
-8/1/24-Started my self/peer assessment.
+20/10/23-Set up my GitHub account. 
