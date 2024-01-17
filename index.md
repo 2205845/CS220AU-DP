@@ -1,11 +1,11 @@
 # What threat does AI pose to humanity?
 
-
+Key words: Artificial intelligence, existential risk, digital identity, catastrophy & weapon of mass destruction
 
 ## What is an existential risk?
 Exisential risks are potential events that would pose irreversible threat the the existence of humanity. These potential dangers can create harmful effects on how we as a socity progress and can severly disrupt the continuation of human life. Existential risks can come from various sources such as natural disasters, human acitivities or technological developments such as AI, which ill be discussing further in my work.
 
-## What is a digital identity and how can it cause existential risk?
+## What is a digital identity and how can it be linked to existential risk?
 Its important we have understanding of what a digital identity is so that we can acknowledge our own. A digital identity is a representation of an individuals identity on the internet or through digtital systems, these identities contain personal and sensitive information such as a persons date of birth, contact information or bank details. 
 
 ## What is AI and how is it being used?
