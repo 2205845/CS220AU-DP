@@ -2,6 +2,9 @@
 
 Key words: Artificial intelligence, existential risk, digital identity, catastrophy & weapon of mass destruction
 
+##Introduction
+Throughout this essay I will disucss artificial intelligence and specifically link it to modern day society, talking about how it has the potential to create an existential risk.Ill be using a range of photos and videos to help express my ideas, as well as a self made poem to further educate the reader.
+
 ## What is an existential risk?
 Exisential risks are potential events that would pose irreversible threat the the existence of humanity. These potential dangers can create harmful effects on how we as a socity progress and can severly disrupt the continuation of human life. Existential risks can come from various sources such as natural disasters, human acitivities or technological developments such as AI, which ill be discussing further in my work.
 "An existential risk can be defined as a “risk that threatens the destruction of humanity’s long-term potential”. To put it bluntly, it is a risk that can credibly lead to human extinction, with irreversible damage to the ability of human civilisation to repair itself."(Wong, 2022)
