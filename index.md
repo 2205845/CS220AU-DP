@@ -11,7 +11,7 @@ Exisential risks are potential events that would pose irreversible threat the th
 "An existential risk can be defined as a “risk that threatens the destruction of humanity’s long-term potential”. To put it bluntly, it is a risk that can credibly lead to human extinction, with irreversible damage to the ability of human civilisation to repair itself."(Wong, 2022)
 
 
-## What is a digital identity and how can it be linked to existential risk?
+## What is a digital identity?
 Its important we have understanding of what a digital identity is so that we can acknowledge our own. A digital identity is a representation of an individuals identity on the internet or through digtital systems, these identities contain personal and sensitive information such as a persons date of birth, contact information or bank details. 
 
 ## What is AI and how is it being used?
