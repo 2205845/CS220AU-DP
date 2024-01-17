@@ -56,3 +56,10 @@ Another student in my group provided feedback on my work as follows: <!-- move t
 | 3.1       |     |     |     |     |   o |
 
 Feedback given by: 2300275 09/01/24
+
+
+The introduction of the essay makes it very clear that the topic to be existential risks and the advancing technologies of artificial intelligence with brief but sufficient explanation of how they are related. The writer provides reference to introduce specific idea and, in this case, artificial intelligence to ensure the reader to have enough understanding in order to continue the reading. Up to date and relevant incidents are introduced into the essay to create a scenario that the reader can be related and easier to understand. Videos are provided to further supporting and explaining the topic. Poem is a nice touch for the ending as it gives some time for readers to think deeply of their existential risk and AI. Conclusion is able to group up every point in the essay.
+
+I think existential risks and digital identity part can provide some examples, even if it is not related to AI. When introducing AI, some statistics can be used for using how we heavily implemented AI to our life making it completely undetachable. This can provide a strong support that AI can create an existential risk. The YouTube video maybe needs to adjust the size so it fits the paragraph and maybe mention about what the video mentions as the readers may not watch the video. Some images can be added in to make the appearance to be more professional. I think Kris said use footer reference. It is like that:
+The body:
+the risk of manipulation of the public is a tangible and imminent threat[^3]
