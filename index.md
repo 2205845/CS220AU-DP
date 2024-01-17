@@ -4,6 +4,8 @@ Key words: Artificial intelligence, existential risk, digital identity, catastro
 
 ## What is an existential risk?
 Exisential risks are potential events that would pose irreversible threat the the existence of humanity. These potential dangers can create harmful effects on how we as a socity progress and can severly disrupt the continuation of human life. Existential risks can come from various sources such as natural disasters, human acitivities or technological developments such as AI, which ill be discussing further in my work.
+"An existential risk can be defined as a “risk that threatens the destruction of humanity’s long-term potential”. To put it bluntly, it is a risk that can credibly lead to human extinction, with irreversible damage to the ability of human civilisation to repair itself."(Wong, 2022)
+
 
 ## What is a digital identity and how can it be linked to existential risk?
 Its important we have understanding of what a digital identity is so that we can acknowledge our own. A digital identity is a representation of an individuals identity on the internet or through digtital systems, these identities contain personal and sensitive information such as a persons date of birth, contact information or bank details. 
@@ -74,6 +76,8 @@ In conclusion, although there are many benefits to AI, I believe that it can cre
 
 
 ## Reference List
+Wong, B. (2022) Why existential risks matter in international relations, E. Available at: https://www.e-ir.info/2022/10/17/why-existential-risks-matter-in-international-relations/ (Accessed: 17 January 2024). 
+
 (Kaplan and Haenlein 2019)
 
 Baggiarini, B. (2023). Israel’s AI can produce 100 bombing targets a day in Gaza. Is this the future of war? [online] The Conversation. Available at:https://theconversation.com/israels-ai-can-produce-100-bombing-targets-a-day-in-gaza-is-this-the-future-of-war-219302.
