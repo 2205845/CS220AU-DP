@@ -31,7 +31,7 @@ Similar to how it was used in the Russia and  Ukraine war, AI is currently being
  We have created AI through our own digital identiies, as it was designed to act and think like people. AI may end with unintended consequences, for example, AI is quickly becoming more sophisticated and that means it may soon surpass human intellegence. Soon AI may act however it pleases and dismiss human values.Although AI has many benefits, It can cause catastrophic existential threat to our digital identites. This is because AI systems have access to our personal data through our digital identity, this means that AI can replecate our identities making it harder for people to spot false identities when it comes to things like deepfakes and fraud. This means that our digital identities are being used by AI in improper ways and as a result can lead to missinformation spreading which could result in wars.
 
 
- Below is a poem i've created linking AI and existential risk:
+ Below is a poem i've created discussing how AI may become more advanced to a point were we cannot control it and therefore it becomes an existential risk:
 
  AI a marvel, a force untamed, 
  
