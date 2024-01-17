@@ -2,7 +2,7 @@
 
 Key words: Artificial intelligence, existential risk, digital identity, catastrophy & weapon of mass destruction
 
-##Introduction
+# Introduction
 Throughout this essay I will disucss artificial intelligence and specifically link it to modern day society, talking about how it has the potential to create an existential risk.Ill be using a range of photos and videos to help express my ideas, as well as a self made poem to further educate the reader.
 
 ## What is an existential risk?
