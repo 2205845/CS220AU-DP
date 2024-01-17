@@ -22,10 +22,7 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. Find more resources to reference
-2. Upload photos onto website after edited
-3. Complete Peer and self assessment
-   
+1.All tasks completed
 
 ## Log
 10/1/24-Completed and uploaded my peer assessment.
@@ -40,7 +37,7 @@ Instructions on using this GitHub repository as a template for your assignment w
 
 27/12/23-Added more information and references to my website. 
 
-11/12/23-Used adobe photoshop to edit the photos I took. 
+11/12/23-Uploaded photots to my website. 
 
 5/12/23-Constructed photos to edit for my website.  
 
